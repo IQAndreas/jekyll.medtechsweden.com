@@ -10,7 +10,7 @@
 <p>Med Tech Sweden inc. perseveres in a constant striving after the finest, most durable, compact and lightweight vacuum splints, to be the finest quality produced, anywhere in the world.  
 
 <p>Designed by rescue professionals, for rescue professionals, with unmatched service and 100% satisfaction guarantee. 	<br><br>
-<center><br><br><script language="JavaScript1.1" src="switch.js"></script></center><!---  --->
+<center><br><br><script language="JavaScript1.1" src="scripts/switch.js"></script></center>
 	
 	
 	

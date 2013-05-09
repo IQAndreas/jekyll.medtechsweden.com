@@ -68,7 +68,7 @@ if (!empty($_POST))
 
 	if (mail($EMAIL_ADDRESS, $subject, $message, $headers))
 	{
-		$displayed_title = "Comment Received";
+		$displayed_title = "Thank you.";
 		$displayed_message = "Thank you for your comment. We will get back to you as soon as possible.";
 		$return_delay = 5;
 	}
@@ -89,25 +89,26 @@ else
 }
 
 ?>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-   "http://www.w3.org/TR/html4/strict.dtd"> 
-<html> 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
 	<head> 
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<?php if (isset($_POST['return_url']))
 		{
-			echo "<meta http-equiv=\"refresh\" content=\"$return_delay;url='$return_url'\" />";
+			echo "<meta http-equiv=\"refresh\" content=\"$return_delay\";url=\"$return_url\" />";
 		} ?>
 		<title><?php echo $displayed_title; ?></title> 
+		<link rel="STYLESHEET" type="text/css" href="scripts/style.css">
 	</head>
-<body>
-<h1><?php echo $displayed_title; ?></h1>
-	<p><?php echo $displayed_message; ?></p>
+<body bgcolor="#FFFFFF" leftmargin=0 topmargin=0 rightmargin=0 marginheight=0 marginwidth=0>
+<center><br><br><br>
+	<p class="header"><?php echo $displayed_title; ?></p>
+	<p class="text"><?php echo $displayed_message; ?></p>
 	<?php if (isset($return_url))
 	{
 		echo '<p>You are now returning to the page you were on. Click the link if you are not redirected automatically.</p>';
 		echo '<p><a href="'.$return_url.'">'.$return_url.'</a></p>';
 	} ?>
+</center>
 </body>
 </html>
-

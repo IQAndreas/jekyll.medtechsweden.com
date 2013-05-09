@@ -20,7 +20,7 @@
 	</table>
 <p><table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
           <tr> 
-            <td align="left" valign="middle" class="product"><a href="lbevs-d.html" target="_blank"><img src="print.gif" width="20" height="16" alt="" border="0"> Printer Friendly Version</a></td>
+            <td align="left" valign="middle" class="product"><a href="lbevs-d.html" target="_blank"><img src="images/print.gif" width="20" height="16" alt="" border="0"> Printer Friendly Version</a></td>
           </tr>
 	</table><p>
 <table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
@@ -61,7 +61,7 @@
           </tr>
           <tr> 
             <td align="left" valign="middle" class="product"><strong>Length</strong></td>
-            <td align="left" valign="middle" class="product">22½" (57cm)</td>
+            <td align="left" valign="middle" class="product">22ï¿½" (57cm)</td>
             <td align="left" valign="middle" class="product">27" (68cm)</td>
             <td align="left" valign="middle" class="product">36" (92cm)</td>
           </tr>
@@ -79,8 +79,8 @@
           </tr>
           <tr bgcolor="#eeeeee"> 
             <td align="left" valign="middle" class="product"><strong>Thickness</strong></td>
-            <td align="left" valign="middle" class="product">½" (1.3cm)</td>
-            <td align="left" valign="middle" class="product">½" (1.3cm)</td>
+            <td align="left" valign="middle" class="product">ï¿½" (1.3cm)</td>
+            <td align="left" valign="middle" class="product">ï¿½" (1.3cm)</td>
             <td align="left" valign="middle" class="product">1" (2.5cm)</td>
           </tr>
         </table>
@@ -98,7 +98,7 @@
 
 <p>The leg and arm splint can be used as a full body vacuum spine board for infants ans small babies.
 
-<p>The standard ½ inch (1.27 cm) US/Europe 2-piece valve is easy to operate with heavy gloves on and is very easy to clean or replace.
+<p>The standard ï¿½ inch (1.27 cm) US/Europe 2-piece valve is easy to operate with heavy gloves on and is very easy to clean or replace.
 
 <p>Deluxe LBEVS are guaranteed to hold a vacuum for 24 hours. The extremity vacuum splints compact to a small size when not in use, and come with a small hand operated vacuum pump, suction adapter for portable suction units and a carrying base for easy storage.
 
@@ -126,7 +126,7 @@
           </tr>
 		  <tr> 
             <td align="left" valign="middle" class="product">Thickness</td>
-			<td align="left" valign="middle" class="product">2¼" (6cm)</td>
+			<td align="left" valign="middle" class="product">2ï¿½" (6cm)</td>
           </tr>
 		  <tr> 
             <td colspan="2" align="left" valign="middle" class="product"><hr width="99%" size="1" color="#000000"></td>
@@ -152,7 +152,7 @@
 	
 	
 	<p><div align="center"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="-1" color="#000000"><b><i>NO PVC - NO LATEX</i></b>
-<p><img src="earth.jpg" width="150" height="150" alt="" border="0">
+<p><img src="images/earth.jpg" width="150" height="150" alt="" border="0">
 <p><b><i>ENVIRONMENTALLY FRIENDLY</i></b></font></div>
 	
 	

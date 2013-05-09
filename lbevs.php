@@ -82,7 +82,7 @@ These extremity vacuum splints are constructed from a high quality puncture resi
           </tr>
           <tr> 
             <td align="left" valign="middle" class="product"><strong>Length</strong></td>
-            <td align="left" valign="middle" class="product">22½" (57cm)</td>
+            <td align="left" valign="middle" class="product">22Â½" (57cm)</td>
             <td align="left" valign="middle" class="product">27" (68cm)</td>
             <td align="left" valign="middle" class="product">36" (92cm)</td>
           </tr>
@@ -100,8 +100,8 @@ These extremity vacuum splints are constructed from a high quality puncture resi
           </tr>
           <tr bgcolor="#eeeeee"> 
             <td align="left" valign="middle" class="product"><strong>Thickness</strong></td>
-            <td align="left" valign="middle" class="product">½" (1.3cm)</td>
-            <td align="left" valign="middle" class="product">½" (1.3cm)</td>
+            <td align="left" valign="middle" class="product">Â½" (1.3cm)</td>
+            <td align="left" valign="middle" class="product">Â½" (1.3cm)</td>
             <td align="left" valign="middle" class="product">1" (2.5cm)</td>
           </tr>
         </table>
@@ -139,7 +139,7 @@ These extremity vacuum splints are constructed from a high quality puncture resi
           </tr>
 		  <tr> 
             <td align="left" valign="middle" class="product">Thickness</td>
-			<td align="left" valign="middle" class="product">2¼" (6cm)</td>
+			<td align="left" valign="middle" class="product">2Â½" (6cm)</td>
           </tr>
 		  <tr> 
             <td colspan="2" align="left" valign="middle" class="product"><hr width="99%" size="1" color="#000000"></td>

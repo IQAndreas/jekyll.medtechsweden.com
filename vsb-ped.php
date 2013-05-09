@@ -19,7 +19,7 @@
 	</table>
 <p><table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
           <tr> 
-            <td align="left" valign="middle" class="product"><a href="vsb-ped.html" target="_blank"><img src="print.gif" width="20" height="16" alt="" border="0"> Printer Friendly Version</a></td>
+            <td align="left" valign="middle" class="product"><a href="vsb-ped.html" target="_blank"><img src="images/print.gif" width="20" height="16" alt="" border="0"> Printer Friendly Version</a></td>
           </tr>
 	</table><p>
 <table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
@@ -69,7 +69,7 @@
           </tr>
 		<tr> 
             <td align="left" valign="middle" class="product">Thickness</td>
-			<td align="left" valign="middle" class="product">1¼" (3cm)</td>
+			<td align="left" valign="middle" class="product">1ï¿½" (3cm)</td>
           </tr>
 		  <tr> 
             <td colspan="2" align="left" valign="middle" class="product"><hr width="99%" size="1" color="#000000"></td>
@@ -92,7 +92,7 @@
 </div>
 	
 	<p><div align="center"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="-1" color="#000000"><b><i>NO PVC - NO LATEX</i></b>
-<p><img src="earth.jpg" width="150" height="150" alt="" border="0">
+<p><img src="images/earth.jpg" width="150" height="150" alt="" border="0">
 <p><b><i>ENVIRONMENTALLY FRIENDLY</i></b></font></div>
 	
 	

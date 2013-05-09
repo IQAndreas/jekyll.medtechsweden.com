@@ -15,7 +15,7 @@
 		<td><img src="images/splash_04.jpg" width=266 height=270 alt=""></td>
 	</tr>
 </table>
-<center><br><script language="JavaScript1.1" src="switch.js"></script></center><!---  --->
+<center><br><script language="JavaScript1.1" src="scripts/switch.js"></script></center>
 
 
 
@@ -26,10 +26,10 @@
 
 
                   From the makers of 
-The Original Vacuum Splints from Sweden…,
+The Original Vacuum Splints from Swedenï¿½,
 
 
-“The Swedish Man with the Orange Bags” brings you--
+ï¿½The Swedish Man with the Orange Bagsï¿½ brings you--
 
 
 VACUUM SPLINTS FOR YOUR ROUGHEST,

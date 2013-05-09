@@ -20,7 +20,7 @@
 	</table>
 <p><table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
           <tr> 
-            <td align="left" valign="middle" class="product"><a href="vev.html" target="_blank"><img src="print.gif" width="20" height="16" alt="" border="0"> Printer Friendly Version</a></td>
+            <td align="left" valign="middle" class="product"><a href="vev.html" target="_blank"><img src="images/print.gif" width="20" height="16" alt="" border="0"> Printer Friendly Version</a></td>
           </tr>
 	</table><p>
 <table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
@@ -44,7 +44,7 @@ A lightweight, compact and easy to apply Vacuum Extrication Vest with 14 differe
 
 <p>All straps and buckles are color-coded for easier application. All straps and lifting handles are comfortable, easy to remove, clean or replace. Leg straps do not cause the discomfort in the groin as they are folded under and around the leg, pulling the straps downward to prevent the Vacuum Extrication Vest from sliding up, this is especially useful for heavier patients.
 
-<p>The standard ½ inch (1.27 cm) US/Europe 2-piece valve is easy to operate with heavy gloves on and is very easy to clean or replace.
+<p>The standard ï¿½ inch (1.27 cm) US/Europe 2-piece valve is easy to operate with heavy gloves on and is very easy to clean or replace.
 
 <p>The Vacuum Extrication Vest compacts to a small size when not in use, and comes with a carrying case for easy storage. The Vacuum Extrication Vest is MRI compatible and X-Ray translucent.
 
@@ -70,7 +70,7 @@ A lightweight, compact and easy to apply Vacuum Extrication Vest with 14 differe
           </tr>
 		  <tr> 
             <td align="left" valign="middle" class="product">Thickness</td>
-			<td align="left" valign="middle" class="product">¾" (2cm)</td>
+			<td align="left" valign="middle" class="product">ï¿½" (2cm)</td>
           </tr>
 			
 			
@@ -101,7 +101,7 @@ A lightweight, compact and easy to apply Vacuum Extrication Vest with 14 differe
 	
 	
 	<p><div align="center"><font face="Verdana,Geneva,Arial,Helvetica,sans-serif" size="-1" color="#000000"><b><i>NO PVC - NO LATEX</i></b>
-<p><img src="earth.jpg" width="150" height="150" alt="" border="0">
+<p><img src="images/earth.jpg" width="150" height="150" alt="" border="0">
 <p><b><i>ENVIRONMENTALLY FRIENDLY</i></b></font></div>
 	
 	
