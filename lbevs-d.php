@@ -61,7 +61,7 @@
           </tr>
           <tr> 
             <td align="left" valign="middle" class="product"><strong>Length</strong></td>
-            <td align="left" valign="middle" class="product">22�" (57cm)</td>
+            <td align="left" valign="middle" class="product">22½" (57cm)</td>
             <td align="left" valign="middle" class="product">27" (68cm)</td>
             <td align="left" valign="middle" class="product">36" (92cm)</td>
           </tr>
@@ -79,8 +79,8 @@
           </tr>
           <tr bgcolor="#eeeeee"> 
             <td align="left" valign="middle" class="product"><strong>Thickness</strong></td>
-            <td align="left" valign="middle" class="product">�" (1.3cm)</td>
-            <td align="left" valign="middle" class="product">�" (1.3cm)</td>
+            <td align="left" valign="middle" class="product">½" (1.3cm)</td>
+            <td align="left" valign="middle" class="product">½" (1.3cm)</td>
             <td align="left" valign="middle" class="product">1" (2.5cm)</td>
           </tr>
         </table>
@@ -98,7 +98,7 @@
 
 <p>The leg and arm splint can be used as a full body vacuum spine board for infants ans small babies.
 
-<p>The standard � inch (1.27 cm) US/Europe 2-piece valve is easy to operate with heavy gloves on and is very easy to clean or replace.
+<p>The standard ½ inch (1.27 cm) US/Europe 2-piece valve is easy to operate with heavy gloves on and is very easy to clean or replace.
 
 <p>Deluxe LBEVS are guaranteed to hold a vacuum for 24 hours. The extremity vacuum splints compact to a small size when not in use, and come with a small hand operated vacuum pump, suction adapter for portable suction units and a carrying base for easy storage.
 

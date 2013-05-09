@@ -9,10 +9,6 @@
 <p><div align="center">
 
 
-
-
-
-
 <table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
           <tr> 
             <td align="left" valign="middle" class="headline"><b>Disposable Low Budget Extremity Vacuum Splints (LBEVS)</b></td>
@@ -20,7 +16,7 @@
 	</table>
 <p><table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
           <tr> 
-            <td align="left" valign="middle" class="product"><a href="lbevs.html" target="_blank"><img src="print.gif" width="20" height="16" alt="" border="0"> Printer Friendly Version</a></td>
+            <td align="left" valign="middle" class="product"><a href="lbevs.html" target="_blank"><img src="images/print.gif" width="20" height="16" alt="" border="0"> Printer Friendly Version</a></td>
           </tr>
 	</table><p>
 <table width="520" border="0" cellspacing="0" cellpadding="0" align="center">

@@ -18,41 +18,25 @@
 <center><br><script language="JavaScript1.1" src="scripts/switch.js"></script></center>
 
 
-
-
-
 	<!--- 50 word Product Description for Fire Rescue show-catalog for Las Vegas
 
 
+         From the makers of 
+The Original Vacuum Splints from Sweden,
 
-                  From the makers of 
-The Original Vacuum Splints from Sweden�,
 
-
-�The Swedish Man with the Orange Bags� brings you--
+"The Swedish Man with the Orange Bags" brings you--
 
 
 VACUUM SPLINTS FOR YOUR ROUGHEST,
  TOUGHEST, MOST RUGGED RESCUE!
 
-
-
 Made entirely in USA, at an amazingly affordable price!
-
 
 
 MPVS: Multi-Purpose Hybrids
 VSB: Amazingly Light Vacuum Spine Board
-
 RED: Renberg Extrication Device --->
-
-
-
-
-	
-	
-	
-	
 	
 <br><br></td>
 <td width="10"><img src="images/clear.gif" width="15" height="1" alt="" border="0"></td>

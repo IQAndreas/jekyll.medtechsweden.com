@@ -16,7 +16,7 @@
 	</table>
 <p><table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
           <tr> 
-            <td align="left" valign="middle" class="product"><a href="vsb5.html" target="_blank"><img src="print.gif" width="20" height="16" alt="" border="0"> Printer Friendly Version</a></td>
+            <td align="left" valign="middle" class="product"><a href="vsb5.html" target="_blank"><img src="images/print.gif" width="20" height="16" alt="" border="0"> Printer Friendly Version</a></td>
           </tr>
 	</table><p>
 <table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
@@ -39,7 +39,7 @@
 
 <p>A specially designed pelvic strap system easy adjusts to the right level over the pelvic area with unique "click on" fasteners. A valve adapter is supplied for using portable suction units. This product is both MRI compatible and X-Ray translucent. 
 
-<p>The Vacuum Spine Board is available in 5 ft, 6 ft and 7 ft sizes and folds to a compact size when not in use. A carrying case is supplied for easy storage. All straps and lifting handles are color-coded comfortable, and easy to remove, clean or replace. The standard ½" (1.27 cm) US/Europe 2-piece valve is easy to operate with heavy gloves on and easy to clean or replace. 
+<p>The Vacuum Spine Board is available in 5 ft, 6 ft and 7 ft sizes and folds to a compact size when not in use. A carrying case is supplied for easy storage. All straps and lifting handles are color-coded comfortable, and easy to remove, clean or replace. The standard Â½" (1.27 cm) US/Europe 2-piece valve is easy to operate with heavy gloves on and easy to clean or replace. 
 
 <p>A multi-chamber system with 18 different size chambers allows the beads to stay in place, even in a vertical application. 
 
@@ -70,7 +70,7 @@
           </tr>
 		  <tr> 
             <td align="left" valign="middle" class="product">Thickness</td>
-			<td align="left" valign="middle" class="product">1¼" (3cm)</td>
+			<td align="left" valign="middle" class="product">1Â¼" (3cm)</td>
           </tr>
 			<tr> 
             <td colspan="2" align="left" valign="middle" class="product"><hr width="99%" size="1" color="#000000"></td>

@@ -16,7 +16,7 @@
 	</table>
 <p><table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
           <tr> 
-            <td align="left" valign="middle" class="product"><a href="pumps.html" target="_blank"><img src="print.gif" width="20" height="16" alt="" border="0"> Printer Friendly Version</a></td>
+            <td align="left" valign="middle" class="product"><a href="pumps.html" target="_blank"><img src="images/print.gif" width="20" height="16" alt="" border="0"> Printer Friendly Version</a></td>
           </tr>
 	</table><p>
 <table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
@@ -68,20 +68,20 @@
             <td align="left" valign="middle" class="product"><strong>Length</strong></td>
 			<td align="left" valign="middle" class="product">13" (33cm)</td>
             <td align="left" valign="middle" class="product">13" (33cm)</td>
-            <td align="left" valign="middle" class="product">4½" (11cm)</td>
+            <td align="left" valign="middle" class="product">4Â½" (11cm)</td>
             <td align="left" valign="middle" class="product">3" (7.5cm)</td>
           </tr>
           <tr bgcolor="#eeeeee"> 
             <td align="left" valign="middle" class="product"><strong>Width</strong></td>
 			<td align="left" valign="middle" class="product">8" (20cm)</td>
-            <td align="left" valign="middle" class="product">2½" (6cm)</td>
-            <td align="left" valign="middle" class="product">3¼" (8cm)</td>
-            <td align="left" valign="middle" class="product">2½" (6cm)</td>
+            <td align="left" valign="middle" class="product">2Â½" (6cm)</td>
+            <td align="left" valign="middle" class="product">3Â¼" (8cm)</td>
+            <td align="left" valign="middle" class="product">2Â½" (6cm)</td>
           </tr>
           <tr> 
             <td align="left" valign="middle" class="product"><strong>Length</strong></td>
 			<td align="left" valign="middle" class="product">4" (10cm)</td>
-            <td align="left" valign="middle" class="product">2½" (6cm)</td>
+            <td align="left" valign="middle" class="product">2Â½" (6cm)</td>
             <td align="left" valign="middle" class="product">6" (15cm)</td>
             <td align="left" valign="middle" class="product">2" (5cm)</td>
           </tr>

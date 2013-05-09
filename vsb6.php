@@ -40,7 +40,7 @@
 
 <p>A specially designed pelvic strap system easy adjusts to the right level over the pelvic area with unique "click on" fasteners. A valve adapter is supplied for using portable suction units. This product is both MRI compatible and X-Ray translucent. 
 
-<p>The Vacuum Spine Board is available in 5 ft, 6 ft and 7 ft sizes and folds to a compact size when not in use. A carrying case is supplied for easy storage. All straps and lifting handles are color-coded comfortable, and easy to remove, clean or replace. The standard �" (1.27 cm) US/Europe 2-piece valve is easy to operate with heavy gloves on and easy to clean or replace. 
+<p>The Vacuum Spine Board is available in 5 ft, 6 ft and 7 ft sizes and folds to a compact size when not in use. A carrying case is supplied for easy storage. All straps and lifting handles are color-coded comfortable, and easy to remove, clean or replace. The standard ½" (1.27 cm) US/Europe 2-piece valve is easy to operate with heavy gloves on and easy to clean or replace. 
 
 <p>A multi-chamber system with 21 different size chambers allows the beads to stay in place, even in a vertical application. 
 

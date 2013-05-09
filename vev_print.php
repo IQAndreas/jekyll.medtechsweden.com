@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>Welcome To Med Tech Sweden, Inc.</title>
-<meta http-equiv="Content-Type" content="text/html;">
+<meta charset="UTF-8"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <link rel="STYLESHEET" type="text/css" href="scripts/style.css">
 <script src="scripts/scripts.js" type="text/javascript"></script>
 
@@ -55,7 +55,7 @@
           </tr>
 		  <tr> 
             <td align="left" valign="middle" class="product">Thickness</td>
-			<td align="left" valign="middle" class="product">¾" (2cm)</td>
+			<td align="left" valign="middle" class="product">Â¾" (2cm)</td>
           </tr>
 			
 			

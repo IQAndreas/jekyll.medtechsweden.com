@@ -15,7 +15,7 @@
 	</table>
 <p><table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
           <tr> 
-            <td align="left" valign="middle" class="product"><a href="vsb7.html" target="_blank"><img src="print.gif" width="20" height="16" alt="" border="0"> Printer Friendly Version</a></td>
+            <td align="left" valign="middle" class="product"><a href="vsb7.html" target="_blank"><img src="images/print.gif" width="20" height="16" alt="" border="0"> Printer Friendly Version</a></td>
           </tr>
 	</table><p>
 <table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
@@ -37,7 +37,7 @@
 The Vacuum Spine Board offers quick, comfortable, and easy full-body immobilisation for suspected spine, pelvic, or hip fractures and multiple-fracture patients.The Vacuum Spine Board offers exceptional water rescue properties and can aid in hypothermia prevention. 
 <p>A specially designed Pelvic Strap System easily adjusts to the right level over the pelvic area with unique "click on" fasteners. A valve adapter is supplied for using portable suction units. This product is both MRI compatible and X-Ray translucent. 
 
-<p>The Vacuum Spine Board is available in 5ft, 6ft and 7ft sizes and folds to a compact size when not in use. A carrying case is supplied for easy storage. All straps and lifting handles are colour-coded comfortable, easy to remove, clean or replace. The standard 1/2" (1.27cm) US/Europe 2-piece valve is easy to operate with heavy gloves on and are easy to clean or replace. 
+<p>The Vacuum Spine Board is available in 5ft, 6ft and 7ft sizes and folds to a compact size when not in use. A carrying case is supplied for easy storage. All straps and lifting handles are colour-coded comfortable, easy to remove, clean or replace. The standard ½" (1.27cm) US/Europe 2-piece valve is easy to operate with heavy gloves on and are easy to clean or replace. 
 
 <p>A Multi-Chamber System with 22 different size chambers allows the beads to stay in place, even in a vertical application. 
 
@@ -66,7 +66,7 @@ The Vacuum Spine Board offers quick, comfortable, and easy full-body immobilisat
           </tr>
 		  <tr> 
             <td align="left" valign="middle" class="product">Thickness</td>
-			<td align="left" valign="middle" class="product">2�" (6cm)</td>
+			<td align="left" valign="middle" class="product">2¼" (6cm)</td>
           </tr>
 		  <tr> 
             <td colspan="2" align="left" valign="middle" class="product"><hr width="99%" size="1" color="#000000"></td>
