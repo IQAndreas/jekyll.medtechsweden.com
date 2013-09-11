@@ -1,4 +1,4 @@
-{% if include.src }}
+{% if include.src %}
 	<td align="{{ include.align }}" valign="top" class="small_photo"><a href="javascript:void(0)" onClick="window.open('/products/{{ page.product }}/{{ include.src }}','','width=495,height=380,toolbar=0,scrollbars=1,resizable=no');"><img src="/products/{{ page.product }}/{{ include.src }}" alt="{{ page.headline_text }}" border="0"></a></td>
 {% else %}
 	<td align="{{ include.align }}" valign="top" class="small_photo">&nbsp;</td>
