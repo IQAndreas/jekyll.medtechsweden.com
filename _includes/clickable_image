@@ -1,0 +1,1 @@
+<td align="{{ include.align }}" valign="top" class="small_photo"><a href="javascript:void(0)" onClick="window.open('{{ include.src }}','','width=495,height=380,toolbar=0,scrollbars=1,resizable=no');"><img src="{{ include.src }}" alt="{{ include.alt }}" border="0"></a></td>

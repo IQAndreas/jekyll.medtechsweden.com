@@ -27,10 +27,10 @@ function MM_preloadImages() { //v3.0
 var theImages = new Array()
 
 
-theImages[0] = 'images/swap1.jpg'
-theImages[1] = 'images/swap2.jpg'
-theImages[2] = 'images/swap3.jpg'
-theImages[3] = 'images/swap4.jpg'
+theImages[0] = '/images/swap1.jpg'
+theImages[1] = '/images/swap2.jpg'
+theImages[2] = '/images/swap3.jpg'
+theImages[3] = '/images/swap4.jpg'
 var j = 0
 var p = theImages.length;
 var preBuffer = new Array()

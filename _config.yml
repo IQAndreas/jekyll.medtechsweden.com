@@ -1,0 +1,7 @@
+# General
+name: Welcome to Med Tech Sweden, Inc.
+permalink: /:title/index.html
+
+# Formatting
+markdown: redcarpet
+pygments: true

@@ -1,0 +1,49 @@
+<table width="520" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+	<td align="center" valign="top" class="product">		
+	<table width="90%" border="0" cellspacing="0" cellpadding="0" align="center">
+	
+		<tr> 
+			<td align="left" valign="middle" class="product">Weight</td>
+			<td align="left" valign="middle" class="product">{{ page.weight }}</td>
+		</tr>
+		<tr> 
+			<td align="left" valign="middle" class="product">Width</td>
+			<td align="left" valign="middle" class="product">{{ page.width }}</td>
+		</tr>
+		<tr> 
+			<td align="left" valign="middle" class="product">Length</td>
+			<td align="left" valign="middle" class="product">{{ page.length }}</td>
+		</tr>
+		<tr> 
+			<td align="left" valign="middle" class="product">Thickness</td>
+			<td align="left" valign="middle" class="product">{{ page.thickness }}</td>
+		</tr>
+		<tr> 
+			<td colspan="2" align="left" valign="middle" class="product"><hr width="99%" size="1" color="#000000"></td>
+		</tr>
+
+		{% if page.case %}
+			{% case page.case %}
+			{% when 'MT51013' %}
+				<tr><td colspan="2" align="left" valign="middle" class="product"><b>Carrying Case</b><br>MT51013 or MT51113</td></tr>
+				<tr><td colspan="2" align="left" valign="middle" class="product">21" x 18" x 8"<br>(53cm x 46cm x 20cm)</td></tr>
+			{% when 'MT51213' %}
+				<tr><td colspan="2" align="left" valign="middle" class="product"><b>Carrying Case</b><br>MT51213</td></tr>
+				<tr><td colspan="2" align="left" valign="middle" class="product">21" x 19" x 10"<br>(53cm x 48cm x 25cm)</td></tr>
+			{% when 'MT51413' %}
+				<tr><td colspan="2" align="left" valign="middle" class="product"><b>Carrying Case</b><br>MT51413</td></tr>
+				<tr><td colspan="2" align="left" valign="middle" class="product">19" x 16" x 5"<br>(48cm x 41cm x 13cm)</td></tr>
+			{% endcase %}
+		{% endif %}
+
+	</table>
+	</td>
+
+	{% if page.case %}
+		<td align="center" valign="middle" class="product_photo"><img src="/products/case/{{ page.case }}.jpg" width="500" height="458" alt="" border="0"></td>
+	{% endif %}
+
+</tr>
+</table>
+
