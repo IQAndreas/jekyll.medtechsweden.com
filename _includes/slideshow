@@ -18,7 +18,7 @@
 	<area shape="rect" alt="" coords="179,8,349,125" href="javascript:void(0)" onClick="window.open('/images/4-2.jpg','','width=390,height=280,toolbar=0,scrollbars=0,resizable=no');">
 	<area shape="rect" alt="" coords="0,7,173,126" href="javascript:void(0)" onClick="window.open('/images/4-1.jpg','','width=390,height=280,toolbar=0,scrollbars=0,resizable=no');">
 </map>
-<script language="JavaScript1.1" src="js/switch.js">
+<script>
 			
 	// Add/delete additional slides as desired.
 	var slides=new Array()
@@ -28,6 +28,6 @@
 	slides[3]='<img src="/images/small-4.jpg" width=533 height=140 border=0 alt="" usemap="#4">'
 
 	var randomID=Math.floor(Math.random()*(slides.length))
-	document.write(slide[randomID]);
+	document.write(slides[randomID]);
 
 </script>
