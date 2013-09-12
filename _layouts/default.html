@@ -13,7 +13,7 @@
         <link rel="stylesheet" href="/css/main.css">
 		
 		<!-- IMPORTED -->
-		<script src="/scripts/scripts.js" type="text/javascript"></script>
+		<script src="/js/main.js" type="text/javascript"></script>
     
     </head>
 
@@ -24,7 +24,7 @@
 		  </tr>
 		  <tr>
 		   <td><img name="medtech_r2_c1" src="/images/medtech_r2_c1.jpg" width="176" height="152" border="0" alt=""></td>
-		   <td><img name="medtech_r2_c2" src="/images/medtech_r2_c2.jpg" width="564" height="152" border="0" alt=""></td>
+		   <td><img name="medtech_r2_c2" src="/images/medtech_r2_c2.jpg" width="564" height="152" border="0" alt="Med Tech Sweden, Inc. Vacuum splint technology by Swedish design, made in the USA."></td>
 		  </tr>
 		  <tr>
 		   <td width="740" colspan="2" align="left" valign="top" background="/images/medtech_r8_c1.jpg">
@@ -40,12 +40,18 @@
 		{% endif %}
 		
 		<br>
-			  {{ content }}
-			  
+		
+		<!-- BEGIN CONTENT -->
+		{{ content }}
+		<!-- END CONTENT -->
+		
 		{% if page.show_slideshow %}
-			<br><br><center><br><br><script language="JavaScript1.1" src="scripts/switch.js"></script></center>
+			<br><br>
+			<center>
+				{% include slideshow %}
+			</center>
 		{% endif %}
-			  
+		
 		<br><br></td>
 		<td width="10"><img src="/images/clear.gif" width="15" height="1" alt="" border="0"></td>
 		</tr>
@@ -63,27 +69,6 @@
 		</tr>
 		</table>
 		</center>
-		
-		<MAP NAME="2">
-		<AREA SHAPE="rect" ALT="" COORDS="357,8,528,126" HREF="javascript:void(0)" onClick="window.open('/images/2-3.jpg','','width=390,height=280,toolbar=0,scrollbars=0,resizable=no');">
-		<AREA SHAPE="rect" ALT="" COORDS="179,8,349,125" HREF="javascript:void(0)" onClick="window.open('/images/2-2.jpg','','width=390,height=280,toolbar=0,scrollbars=0,resizable=no');">
-		<AREA SHAPE="rect" ALT="" COORDS="0,7,173,126" HREF="javascript:void(0)" onClick="window.open('/images/2-1.jpg','','width=390,height=280,toolbar=0,scrollbars=0,resizable=no');">
-		</MAP>
-		<MAP NAME="3">
-		<AREA SHAPE="rect" ALT="" COORDS="357,8,528,126" HREF="javascript:void(0)" onClick="window.open('/images/3-3.jpg','','width=390,height=280,toolbar=0,scrollbars=0,resizable=no');">
-		<AREA SHAPE="rect" ALT="" COORDS="179,8,349,125" HREF="javascript:void(0)" onClick="window.open('/images/3-2.jpg','','width=390,height=280,toolbar=0,scrollbars=0,resizable=no');">
-		<AREA SHAPE="rect" ALT="" COORDS="0,7,173,126" HREF="javascript:void(0)" onClick="window.open('/images/3-1.jpg','','width=390,height=280,toolbar=0,scrollbars=0,resizable=no');">
-		</MAP>
-		<MAP NAME="4">
-		<AREA SHAPE="rect" ALT="" COORDS="357,8,528,126" HREF="javascript:void(0)" onClick="window.open('/images/4-3.jpg','','width=390,height=280,toolbar=0,scrollbars=0,resizable=no');">
-		<AREA SHAPE="rect" ALT="" COORDS="179,8,349,125" HREF="javascript:void(0)" onClick="window.open('/images/4-2.jpg','','width=390,height=280,toolbar=0,scrollbars=0,resizable=no');">
-		<AREA SHAPE="rect" ALT="" COORDS="0,7,173,126" HREF="javascript:void(0)" onClick="window.open('/images/4-1.jpg','','width=390,height=280,toolbar=0,scrollbars=0,resizable=no');">
-		</MAP>
-		<MAP NAME="5">
-		<AREA SHAPE="rect" ALT="" COORDS="357,8,528,126" HREF="javascript:void(0)" onClick="window.open('/images/5-3.jpg','','width=390,height=280,toolbar=0,scrollbars=0,resizable=no');">
-		<AREA SHAPE="rect" ALT="" COORDS="179,8,349,125" HREF="javascript:void(0)" onClick="window.open('/images/5-2.jpg','','width=390,height=280,toolbar=0,scrollbars=0,resizable=no');">
-		<AREA SHAPE="rect" ALT="" COORDS="0,7,173,126" HREF="javascript:void(0)" onClick="window.open('/images/5-1.jpg','','width=390,height=280,toolbar=0,scrollbars=0,resizable=no');">
-		</MAP>
 	
 	</body>
 </html>
