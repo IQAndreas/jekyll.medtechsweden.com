@@ -2,6 +2,8 @@
 <html>
     <head>
         <meta charset="utf-8">
+		{% include redirect/head.html %}
+		
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }} - Med Tech Sweden, Inc.</title>
         <meta name="viewport" content="width=device-width">
@@ -44,6 +46,7 @@
 		<br>
 		
 		<!-- BEGIN CONTENT -->
+		{% include redirect/body.html %}
 		{{ content }}
 		<!-- END CONTENT -->
 		
