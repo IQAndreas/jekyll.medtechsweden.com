@@ -29,9 +29,9 @@
 
           <tr> 
             
-<td align="center" valign="top" class="small_photo"><a href="javascript:void(0)" onClick="window.open('products/vsi/VSI-laynig.jpg','','width=495,height=380,toolbar=0,scrollbars=1,resizable=no');"><img src="products/vsi/VSI-laynig.jpg" alt="" border="0"></a></td>
+<td align="center" valign="top" class="small_photo"><a href="javascript:void(0)" onClick="window.open('/products/vsi/VSI-laynig.jpg','','width=495,height=380,toolbar=0,scrollbars=1,resizable=no');"><img src="/products/vsi/VSI-laynig.jpg" alt="" border="0"></a></td>
 <td align="left" valign="top" class="small_photo">&nbsp;</td>
-<td align="center" valign="top" class="small_photo"><a href="javascript:void(0)" onClick="window.open('products/vsi/VSI-Rossman.jpg','','width=495,height=380,toolbar=0,scrollbars=1,resizable=no');"><img src="products/vsi/VSI-Rossman.jpg" alt="" border="0"></a></td>
+<td align="center" valign="top" class="small_photo"><a href="javascript:void(0)" onClick="window.open('/products/vsi/VSI-Rossman.jpg','','width=495,height=380,toolbar=0,scrollbars=1,resizable=no');"><img src="/products/vsi/VSI-Rossman.jpg" alt="" border="0"></a></td>
 <td align="right" valign="top" class="small_photo">&nbsp;</td>
           </tr>
 	</table>
@@ -75,7 +75,7 @@
 		  
 		  
 		</table></td>
-			<td align="center" valign="middle" class="product_photo"><img src="products/case/MT51413.jpg" width="500" height="458" alt="" border="0"></td>
+			<td align="center" valign="middle" class="product_photo"><img src="/products/case/MT51413.jpg" width="500" height="458" alt="" border="0"></td>
           </tr>
 		</table>
 
