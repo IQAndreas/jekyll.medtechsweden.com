@@ -10,7 +10,7 @@
 				</table>
 			</td>
 			
-			<td align="center" valign="middle" class="product_photo"><img src="/products/case/MT51013.jpg" alt="" border="0"></td>
+			<td align="center" valign="middle" class="product_photo"><img src="/products/carrying-cases/MT51013.jpg" alt="" border="0"></td>
 			
 		{% when 'MT51213' %}
 			<td align="center" valign="top" class="product">
@@ -19,7 +19,7 @@
 					<tr><td colspan="2" align="left" valign="middle" class="product">21" x 19" x 10"<br>(53cm x 48cm x 25cm)</td></tr>
 				</table>
 			</td>
-			<td align="center" valign="middle" class="product_photo"><img src="/products/case/MT51213.jpg" alt="" border="0"></td>
+			<td align="center" valign="middle" class="product_photo"><img src="/products/carrying-cases/MT51213.jpg" alt="" border="0"></td>
 			
 		{% when 'MT51413' %}
 			<td align="center" valign="top" class="product">
@@ -28,7 +28,7 @@
 					<tr><td colspan="2" align="left" valign="middle" class="product">19" x 16" x 5"<br>(56cmx125cmx3cm)</td></tr>
 				</table>
 			</td>
-			<td align="center" valign="middle" class="product_photo"><img src="/products/case/MT51413.jpg" alt="" border="0"></td>
+			<td align="center" valign="middle" class="product_photo"><img src="/products/carrying-cases/MT51413.jpg" alt="" border="0"></td>
 		
 		{% else %}
 			<b>Unknown carrying case {{ page.case }}</b>

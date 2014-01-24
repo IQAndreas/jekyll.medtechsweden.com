@@ -41,7 +41,7 @@
 	</td>
 
 	{% if page.case %}
-		<td align="center" valign="middle" class="product_photo"><img src="/products/case/{{ page.case }}.jpg" width="500" height="458" alt="" border="0"></td>
+		<td align="center" valign="middle" class="product_photo"><img src="/products/carrying-cases/{{ page.case }}.jpg" width="500" height="458" alt="" border="0"></td>
 	{% endif %}
 
 </tr>

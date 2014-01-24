@@ -6,20 +6,20 @@ function displayProductSlideshow() {
 	slides.push( {img:'/images/slideshow/small-1.jpg', alt:"Med Tech Products", products: [
 		{ name: "Pediatric Vacuum Spine Board (VSB)", 	url: "/products/vsb-pediatric/" },
 		{ name: "Vacuum Head Immobilizer (VHI)", 		url: "/products/vhi/" },
-		{ name: "Vacuum Spine Board (VSB) 5ft", 		url: "/products/vsb-5/" }
+		{ name: "Vacuum Spine Board (VSB) 5ft", 		url: "/products/vsb-5ft/" }
 	]});
 	slides.push( {img:'/images/slideshow/small-2.jpg', alt:"Med Tech Products", products: [
-		{ name: "Vacuum Pumps", 						url: "/products/pumps/" },
+		{ name: "Vacuum Pumps", 						url: "/products/vacuum-pumps/" },
 		{ name: "Vacuum Extrication Vest (VEV)", 		url: "/products/vev/" },
 		{ name: "Deluxe Low Budget Extremity Splints (Deluxe LBEVS)", url: "/products/lbevs-deluxe/" }
 	]});
 	slides.push( {img:'/images/slideshow/small-3.jpg', alt:"Med Tech Products", products: [
 		{ name: "Disposable Low Budget Extremity Vacuum Splints (LBEVS)", url: "/products/lbevs/" },
-		{ name: "Carrying Cases", 						url: "/products/case/" },
-		{ name: "Vacuum Pumps",							url: "/products/pumps/" }
+		{ name: "Carrying Cases", 						url: "/products/carrying-cases/" },
+		{ name: "Vacuum Pumps",							url: "/products/vacuum-pumps/" }
 	]});
 	slides.push( {img:'/images/slideshow/small-4.jpg', alt:"Med Tech Products", products: [
-		{ name: "Vacuum Pumps", 						url: "/products/pumps/" },
+		{ name: "Vacuum Pumps", 						url: "/products/vacuum-pumps/" },
 		{ name: "Vacuum Body Transporter (VBT)", 		url: "/products/vbt/" },
 		{ name: "Vacuum Head Immobilizer (VHI)", 		url: "/products/vhi/" }
 	]});

@@ -75,7 +75,7 @@
 		  
 		  
 		</table></td>
-			<td align="center" valign="middle" class="product_photo"><img src="/products/case/MT51413.jpg" width="500" height="458" alt="" border="0"></td>
+			<td align="center" valign="middle" class="product_photo"><img src="/products/carrying-cases/MT51413.jpg" width="500" height="458" alt="" border="0"></td>
           </tr>
 		</table>
 
