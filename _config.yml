@@ -1,6 +1,7 @@
 # General
 name: Welcome to Med Tech Sweden, Inc.
 permalink: /:title/index.html
+relative_permalinks: false
 
 # Formatting
 markdown: redcarpet
